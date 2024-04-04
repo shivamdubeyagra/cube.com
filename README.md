@@ -1,7 +1,7 @@
 # Getting Started
 ## Installation
 ```
-https://github.com/shivamdubeyagra/cube.com.git
+git clone https://github.com/shivamdubeyagra/cube.com.git
 ```
 
 ## Package Installation
