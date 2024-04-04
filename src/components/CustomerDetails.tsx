@@ -17,7 +17,7 @@ const CustomerDetails: React.FC = () => {
   const customer: Customer | undefined = customers.find((c: Customer) => c.id === customerId);
 
   if (!customer) {
-    return <div>Customer not found</div>;
+    return <div className="flex justify-center items-center text-5xl ml-[500px] font-bold">Customer not found</div>;
   }
 
   return (
