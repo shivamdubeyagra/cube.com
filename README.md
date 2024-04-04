@@ -20,3 +20,4 @@ npm run dev
 - react-router-dom
 
 # Deployed Link :
+ ## [Cube.Com](https://cubeassignment.netlify.app/)
